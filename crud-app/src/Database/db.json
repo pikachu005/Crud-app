@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Rohit Sharma",
+      "username": "Hitman",
+      "email": "rohitsharma@gmail.com",
+      "phone": "987543217",
+      "id": 1
+    },
+    {
+      "name": "Anurag Singh",
+      "username": "anuragsingh5678",
+      "email": "anuragsingh5678@gmail.com",
+      "phone": "5674685543",
+      "id": 3
+    },
+    {
+      "name": "Kamal Kumar",
+      "username": "kamal123",
+      "email": "kamalKumar123@gmail.com",
+      "phone": "987412365",
+      "id": 4
+    }
+  ]
+}
